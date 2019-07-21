@@ -28,9 +28,9 @@
                   <div class="col-md-9">
                     <h3 class="donate-h">Deposit funds to Our Bank Accounts, details below:</h3>
                     <address class="donate-text">
-                      <b>Account Number:</b> 0990278976<br>
-                      <b>Account Name:</b> Jehovah Jireh Orphanage<br>
-                      <b>Bank:</b> First Bank of Nigeria
+                      <b>Account Number:</b> 1014569831<br>
+                      <b>Account Name:</b> Jehovah Jireh Orphanage & Motherless Babies<br>
+                      <b>Bank:</b> Zenith Bank Plc
                     </address>
 
                   </div>
@@ -59,8 +59,8 @@
               <div class="col-md-9" style="position: relative; top: 40px;">
                 <h3 class="donate-h">By sending Stuff and Materials, you can mail to our head office:</h3>
                 <address class="donate-text">
-                Our address Ihioma Orlu, Imo State
-                  Nigeria<br><br><br>
+                  Off 77 Ihioma Road, Umuchukwunedu Umuola Amaifeke,
+                    Orlu L.G.A, Imo State Nigeria<br><br><br>
                 </address>
               </div>
             </div>
@@ -86,7 +86,7 @@
                 <address class="donate-text">
                   <b>Eg:</b> <br>
                   Western Union, Moneygram, etc <br><br>
-                  <b>Send transactions details to:</b> disdatemail@gmail.com<br>
+                  <b>Send transactions details to:</b> info@jehovahjirehorphanage.org<br>
                 </address>
               </div>
               <div class="col-md-3" style="position: relative; top: 40px;">

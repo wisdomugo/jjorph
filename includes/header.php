@@ -58,11 +58,11 @@
 
             <div class="col-sm-12 col-md-8">
                 <ul class="top-contact pull-right">
-                    <li class="phone"><i class="fa fa-phone-square" aria-hidden="true"></i> +42-123-4567</li>
+                    <li class="phone"><i class="fa fa-phone-square" aria-hidden="true"></i> +234 8033486982</li>
                     <li class="email"><i class="fa fa-envelope" aria-hidden="true"></i>
                     info@jehovahjirehorphanage.org
                     </li>
-                    <li class="get-a-quote"><a href="#" title="">Donate</a></li>
+                    <li class="get-a-quote"><a href="donate.php" title="">Donate</a></li>
                 </ul>
             </div>
         </div>

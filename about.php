@@ -167,19 +167,19 @@
           <div class="row">
               <div class="col-sm-4">
                   <div class="case-studies-content">
-                      <img class="img-responsive" src="img/img-case-sudies-1.png" alt="case sudies.png">
+                      <img class="img-responsive" src="img/feat1.jpg" alt="case sudies.png">
 
                   </div>
               </div>
               <div class="col-sm-4">
                   <div class="case-studies-content">
-                      <img class="img-responsive" src="img/img-case-sudies-2.png" alt="case sudies.png">
+                      <img class="img-responsive" src="img/feat1.jpg" alt="case sudies.png">
 
                   </div>
               </div>
               <div class="col-sm-4">
                   <div class="case-studies-content">
-                      <img class="img-responsive" src="img/img-case-sudies-3.png" alt="case sudies.png">
+                      <img class="img-responsive" src="img/feat1.jpg" alt="case sudies.png">
 
                   </div>
               </div>
@@ -188,19 +188,19 @@
           <div class="row">
               <div class="col-sm-4">
                   <div class="case-studies-content">
-                      <img class="img-responsive" src="img/img-case-sudies-4.png" alt="case sudies.png">
+                      <img class="img-responsive" src="img/feat1.jpg" alt="case sudies.png">
 
                   </div>
               </div>
               <div class="col-sm-4">
                   <div class="case-studies-content">
-                      <img class="img-responsive" src="img/img-case-sudies-5.png" alt="case sudies.png">
+                      <img class="img-responsive" src="img/feat1.jpg" alt="case sudies.png">
 
                   </div>
               </div>
               <div class="col-sm-4">
                   <div class="case-studies-content">
-                      <img class="img-responsive" src="img/img-case-sudies-6.png" alt="case sudies.png">
+                      <img class="img-responsive" src="img/feat1.jpg" alt="case sudies.png">
 
                   </div>
               </div>
@@ -284,12 +284,12 @@
                   <div class="item active">
                       <blockquote>
 
-                          <p>A passionate call to donate, passionate indeed.. listen and help
-                          </p>
+                        <p><big style="font-family: 'Montserrat'; ">YOU CAN HELP BY GIVING US DONATIONS </big>
+                        </p>
 
-                          <ul class="user-details">
-                            <a href="" class="btn btn-default btn-lg">Send us a Donation</a>
-                          </ul>
+                        <ul class="user-details">
+                          <a href="donate.php" class="btn btn-default btn-lg">SEND US DONATION</a>
+                        </ul>
 
                       </blockquote>
                   </div>

@@ -6,7 +6,7 @@
       <div class="row">
         <div class="col-md-4">
           <div class="footer-logo">
-            <a href="#"><img class="img-responsive" src="img/logo-footer.png" alt=""></a>
+            <a href="#"><img class="img-responsive" src="img/logon-footer.png" alt=""></a>
           </div>
         </div><!-- /.col-sm-4 -->
 
@@ -15,12 +15,13 @@
             <p>How souls can be touched and joy spread all over. Can all and sundry see this as the major purpose of existence, the world would have been a better place to live in.</p>
 
             <ul>
-              <li class="phone"><i class="fa fa-volume-control-phone" aria-hidden="true"></i> 1-677-124-44227
+              <li class="phone"><i class="fa fa-volume-control-phone" aria-hidden="true"></i> +234 8033486982
                 <small><i class="fa fa-clock-o" aria-hidden="true"></i> Mon - Sat 8.00 - 18.00h</small></li>
                 <li class="address">
                   <address>
                     <i class="fa fa-map-pin" aria-hidden="true"></i>
-                    Ihioma Orlu
+                    <small>Off 77 Ihioma Road, Umuchukwunedu Umuola Amaifeke, <br> &nbsp &nbsp &nbsp
+                      Orlu L.G.A, Imo State</small>
                   </address>
                 </li>
               </ul>

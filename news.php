@@ -60,12 +60,12 @@
                 <div class="item active">
                     <blockquote>
 
-                        <p>A passionate call to donate, passionate indeed.. listen and help
-                        </p>
+                      <p><big style="font-family: 'Montserrat'; ">YOU CAN HELP BY GIVING US DONATIONS </big>
+                      </p>
 
-                        <ul class="user-details">
-                          <a href="" class="btn btn-default btn-lg">Send us a Donation</a>
-                        </ul>
+                      <ul class="user-details">
+                        <a href="donate.php" class="btn btn-default btn-lg">SEND US DONATION</a>
+                      </ul>
 
                     </blockquote>
                 </div>

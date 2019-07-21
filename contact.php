@@ -11,11 +11,11 @@
 </section>
 <!-- .page-title -->
 
-              <section class="our-location">
+            <!--  <section class="our-location">
                 <div class="container">
                   <div id="googleMap"></div>
                 </div>
-              </section>
+              </section>-->
 
 
 
@@ -30,8 +30,8 @@
                         <div class="promo-content">
                           <h3>Office Address</h3>
                           <address>
-                            Hoffman Parkway <br>
-                            Mountain View. USA
+                            Off 77 Ihioma Road, Umuchukwunedu Umuola Amaifeke,
+                              Orlu L.G.A, Imo State
                           </address>
                         </div>
                       </div><!-- /.promo-block-wrapper -->
@@ -45,8 +45,8 @@
                         <div class="promo-content">
                           <h3>Phone Number</h3>
                           <address>
-                            <abbr title="Phone">Land:</abbr> 1-900-123-hello<br>
-                            <abbr title="Phone">Cell:</abbr> 1-900-123-hello
+                            <abbr title="Phone"></abbr> +234 8033486982<br><br>
+                            <abbr title="Phone"></abbr> +234 8153854125
                           </address>
                         </div>
                       </div><!-- /.promo-block-wrapper -->
@@ -60,8 +60,8 @@
                         <div class="promo-content">
                           <h3>Email Address</h3>
                           <address>
-                            <a href="mailto:#">contactt@uiCookies.com</a><br>
-                            <a href="#">www.uiCookies.com</a>
+                            <a href="mailto:#">info@jehovahjirehorphanage.com</a><br>
+                            <!--<a href="#">www.uiCookies.com</a>-->
                           </address>
                         </div>
                       </div><!-- /.promo-block-wrapper -->

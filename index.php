@@ -140,7 +140,7 @@
             <div class="col-md-4">
                 <div class="left-icon-wraper">
                     <div class="icon">
-                        <i class="flaticon-tags"></i>
+                        <i class="fa fa-child"></i>
                     </div>
 
                     <div class="content">
@@ -151,7 +151,7 @@
             </div>
             <div class="col-md-4">
                 <div class="left-icon-wraper">
-                <div class="icon"><i class="flaticon-ranking"></i></div>
+                <div class="icon"><i class="fa fa-bed"></i></div>
 
                 <div class="content">
                     <h2>Orphanage children care</h2>
@@ -162,10 +162,10 @@
             </div>
             <div class="col-md-4">
                 <div class="left-icon-wraper">
-                <div class="icon"><i class="flaticon-monitoring"></i></div>
+                <div class="icon"><i class="fa fa-heartbeat"></i></div>
 
                 <div class="content">
-                     <h2>Counselling Services</h2>
+                     <h2>Abandoned Children Care</h2>
                     <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring.</p>
                 </div>
 
@@ -175,10 +175,10 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="left-icon-wraper">
-                <div class="icon"><i class="flaticon-blogging"></i></div>
+                <div class="icon"><i class="fa fa-medkit"></i></div>
 
                  <div class="content">
-                     <h2>Another Service</h2>
+                     <h2>The Less priviledged</h2>
                     <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring.</p>
                  </div>
 
@@ -186,26 +186,16 @@
             </div>
             <div class="col-md-4">
                 <div class="left-icon-wraper">
-                <div class="icon"><i class="flaticon-social-media"></i></div>
+                <div class="icon"><i class="fa fa-stethoscope"></i></div>
 
                  <div class="content">
-                     <h2>Another Service 2</h2>
+                     <h2>Counselling Services</h2>
                     <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring.</p>
                  </div>
 
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="left-icon-wraper">
-                <div class="icon"><i class="flaticon-viral-marketing"></i></div>
 
-                <div class="content">
-                    <h2>Another Service Again</h2>
-                    <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring.</p>
-                </div>
-
-                </div>
-            </div>
         </div>
     </div>
     <!-- .container -->
@@ -226,7 +216,7 @@
                     Few words and charge about care giving, How souls can be touched and joy spread all over. Can all and sundry see this as the major purpose of existence, the world would have been a better place to live in and there is no other better way to achieve it than through love showing.
                 </p>
                 <h5>Evang. Mrs Cecilia Okeke <small>Director/Founder </small></h5>
-                <a href="about.php" class="btn btn-default btn-lg">More About Us</a>
+                <a href="about.php" class="btn btn-default btn-lg" style="color: blue !important; border: solid blue 1px;">More About Us</a>
             </div>
             </div>
             </div>
@@ -250,11 +240,11 @@
                 <div class="item active">
                     <blockquote>
 
-                        <p>A passionate call to donate, passionate indeed.. listen and help
+                        <p><big style="font-family: 'Montserrat'; ">YOU CAN HELP BY GIVING US DONATIONS </big>
                         </p>
 
                         <ul class="user-details">
-                          <a href="" class="btn btn-default btn-lg">Send us a Donation</a>
+                          <a href="donate.php" class="btn btn-default btn-lg">SEND US DONATION</a>
                         </ul>
 
                     </blockquote>
@@ -277,42 +267,36 @@
         </div>
 
         <div class="row">
-              <div class="col-md-2"></div>
-                <div class="col-md-8">
-                  <!-- The Modal -->
-                    <div id="myModal" class="modal">
+          <!-- The Modal -->
+            <div id="myModal" class="modal">
 
-                      <!-- The Close Button -->
-                      <span class="close">&times;</span>
+              <!-- The Close Button -->
+              <span class="close">&times;</span>
 
-                      <!-- Modal Content (The Image) -->
-                      <img class="modal-content" id="img01">
+              <!-- Modal Content (The Image) -->
+              <img class="modal-content" id="img01">
 
-                      <!-- Modal Caption (Image Text) -->
-                      <div id="caption"></div>
-                    </div>
-                </div>
-                <div class="col-md-2"></div>
-
+              <!-- Modal Caption (Image Text) -->
+              <div id="caption"></div>
+            </div>
         </div>
-
 
         <div class="row">
             <div class="col-sm-4">
                 <div class="case-studies-content">
-                    <img class="img-responsive" src="img/img-case-sudies-1.png" alt="case sudies.png">
-                    <!--<h2>Solving the problem</h2>-->
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="case-studies-content">
-                    <img class="img-responsive" src="img/img-case-sudies-2.png" alt="case sudies.png">
+                    <img class="img-responsive" src="img/feat1.jpg" alt="case sudies.png">
 
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="case-studies-content">
-                    <img class="img-responsive" src="img/img-case-sudies-3.png" alt="case sudies.png">
+                    <img class="img-responsive" src="img/feat1.jpg" alt="case sudies.png">
+
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="case-studies-content">
+                    <img class="img-responsive" src="img/feat1.jpg" alt="case sudies.png">
 
                 </div>
             </div>
@@ -321,27 +305,26 @@
         <div class="row">
             <div class="col-sm-4">
                 <div class="case-studies-content">
-                    <img class="img-responsive" src="img/img-case-sudies-4.png" alt="case sudies.png">
+                    <img class="img-responsive" src="img/feat1.jpg" alt="case sudies.png">
 
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="case-studies-content">
-                    <img class="img-responsive" src="img/img-case-sudies-5.png" alt="case sudies.png">
+                    <img class="img-responsive" src="img/feat1.jpg" alt="case sudies.png">
 
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="case-studies-content">
-                    <img class="img-responsive" src="img/img-case-sudies-6.png" alt="case sudies.png">
+                    <img class="img-responsive" src="img/feat1.jpg" alt="case sudies.png">
 
                 </div>
             </div>
         </div><!-- /.row -->
     </div><!-- /.container -->
 </section>
-<!-- /.client-logo -->
-
+<!-- .skills -->
 
   <script type="text/javascript">
   document.addEventListener('DOMContentLoaded', function(e) {
